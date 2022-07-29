@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29957916",
+      "name": "指纹认证",
+      "font_class": "anquanrenzheng",
+      "unicode": "100d7",
+      "unicode_decimal": 65751
+    },
+    {
+      "icon_id": "29957917",
+      "name": "身份证认证",
+      "font_class": "daVrenzheng",
+      "unicode": "100d8",
+      "unicode_decimal": 65752
+    },
+    {
+      "icon_id": "29957918",
+      "name": "管理认证",
+      "font_class": "guanfangrenzheng",
+      "unicode": "100d9",
+      "unicode_decimal": 65753
+    },
+    {
+      "icon_id": "29957919",
+      "name": "官方认证",
+      "font_class": "guanlirenzheng",
+      "unicode": "100da",
+      "unicode_decimal": 65754
+    },
+    {
+      "icon_id": "29957920",
+      "name": "品牌认证",
+      "font_class": "darenrenzheng",
+      "unicode": "100db",
+      "unicode_decimal": 65755
+    },
+    {
+      "icon_id": "29957921",
+      "name": "3C认证",
+      "font_class": "a-3Crenzheng",
+      "unicode": "100dc",
+      "unicode_decimal": 65756
+    }
+  ]
+}
